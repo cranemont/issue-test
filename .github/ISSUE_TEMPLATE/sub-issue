@@ -1,0 +1,22 @@
+name: 📚 [Backend] New module development
+description: Module에 포함될 feature를 개발합니다
+title: '[Feature] module-name: '
+labels: ['feat: backend']
+body:
+  - type: textarea
+    attributes:
+      label: 📕Describe the feature
+      description: 구현하려는 feature를 자세하게 설명해주세요.
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: ✅Todo
+      description: TDD의 기본 원칙을 따릅니다.
+      options:
+        - label: Write a failing UnitTest
+          required: true
+        - label: Make it pass
+          required: true
+        - label: Refactor
+          required: true
