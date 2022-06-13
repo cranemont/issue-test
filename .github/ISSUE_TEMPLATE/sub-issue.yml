@@ -14,7 +14,7 @@ body:
       label: ✅Todo
       description: TDD의 기본 원칙을 따릅니다.
       options:
-        - label: Write a failing UnitTest
+        - label: Write a failing unit test
           required: false
         - label: Make it pass
           required: false
