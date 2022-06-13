@@ -15,8 +15,8 @@ body:
       description: TDD의 기본 원칙을 따릅니다.
       options:
         - label: Write a failing UnitTest
-          required: true
+          required: false
         - label: Make it pass
-          required: true
+          required: false
         - label: Refactor
-          required: true
+          required: false
