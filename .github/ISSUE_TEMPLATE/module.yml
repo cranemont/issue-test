@@ -23,6 +23,6 @@ body:
   - type: textarea
     attributes:
       label: 🛠 Related features(sub-issues)
-      description: Module과 관련된 issue들을 등록해주세요. `- [ ] #<issue-nubmer>` 형태로 작성합니다.
+      description: Module과 관련된 issue들을 등록해주세요.
     validations:
       required: false
