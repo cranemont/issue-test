@@ -1,4 +1,4 @@
-name: 📚 [Backend] New module development
+name: 📚 [Backend] New feature development
 description: Module에 포함될 feature를 개발합니다
 title: '[Feature] module-name: '
 labels: ['feat: backend']
