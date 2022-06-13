@@ -1,5 +1,6 @@
 name: 📚 [Backend] New module development
-description: 새로운 module 을 개발합니다.
+description: 새로운 module을 개발합니다.
+title: '[Module] '
 labels: ['feat: backend']
 body:
   - type: textarea
